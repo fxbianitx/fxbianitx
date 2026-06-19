@@ -1,4 +1,4 @@
-### Backend Developer | Laravel | React | Docker | SaaS Builder
+### Full Stack Developer | Laravel | React | Docker | SaaS Builder
 
 Soy desarrollador de software enfocado en la construcción de aplicaciones web escalables, arquitectura backend y productos SaaS.
 
