@@ -1,5 +1,3 @@
-# 👋 Hola, soy Fabián Alva
-
 ### Backend Developer | Laravel | React | Docker | SaaS Builder
 
 Soy desarrollador de software enfocado en la construcción de aplicaciones web escalables, arquitectura backend y productos SaaS.
